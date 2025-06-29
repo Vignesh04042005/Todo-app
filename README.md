@@ -162,5 +162,6 @@ lib/
 The app includes mock data for demonstration purposes. When you first launch the app and sign in, you'll see sample tasks that showcase all the features.
 
 ##Demo Video
+https://screenapp.io/app/#/shared/BN1vdyHjVj
 
 This project is a part of a hackathon run by https://www.katomaran.com
