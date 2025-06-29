@@ -161,14 +161,4 @@ lib/
 
 The app includes mock data for demonstration purposes. When you first launch the app and sign in, you'll see sample tasks that showcase all the features.
 
-## 📄 License
-
-This project is created for hackathon purposes.
-
-## 👨‍💻 Developer
-
-Built with ❤️ using Flutter for the hackathon challenge.
-
----
-
-**Note**: This is a demonstration app for hackathon purposes. In a production environment, you would want to add proper backend integration, data persistence, and additional security measures.
+This project is a part of a hackathon run by https://www.katomaran.com
